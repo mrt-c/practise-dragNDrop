@@ -1,0 +1,14 @@
+.block {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: blueviolet;
+    cursor: move;
+    }
+    body{
+    height: 100%;
+        width: 100%;
+        background-color: aqua;
+    }
